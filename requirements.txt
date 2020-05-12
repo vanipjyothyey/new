@@ -5,7 +5,7 @@ git+https://github.com/weddige/pyaiml3.git
 pymongo==3.8.0
 pyphonetics==0.4.1
 pandas==0.24.2
-nltk==3.4.3
+nltk==3.4.5
 pyodbc==4.0.26
 openpyxl==2.6.2
 azure-cognitiveservices-speech==1.6.0
